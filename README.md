@@ -34,4 +34,4 @@ Here's the codepens for direct access to the solutions :
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [license-shield]: https://img.shields.io/github/license/bluzeey/frontendeval-solutions.svg?style=for-the-badge
-[license-url]: https://github.com/bluzeey/frontendeval-solutions/blob/main/LICENSE.txt
+[license-url]: /blob/main/LICENSE.txt
